@@ -6,8 +6,8 @@ SIMOP-C adalah aplikasi web yang dibangun menggunakan Framework PHP Codeigniter 
 
 Dokumentasi Aplikasi
 
-![Untitled design](https://user-images.githubusercontent.com/35028561/109629248-39bd5980-7b76-11eb-857b-568a4849252a.png)
-![Untitled design (1)](https://user-images.githubusercontent.com/35028561/109629279-417cfe00-7b76-11eb-9bb1-74bc0e999ae5.png)
-![Untitled design (2)](https://user-images.githubusercontent.com/35028561/109629294-4477ee80-7b76-11eb-999d-884da639a917.png)
-![Untitled design (3)](https://user-images.githubusercontent.com/35028561/109629307-46da4880-7b76-11eb-9579-da14377af03d.png)
-![Untitled design (4)](https://user-images.githubusercontent.com/35028561/109629312-493ca280-7b76-11eb-9c41-4d4efce28c1f.png)
+![4](https://user-images.githubusercontent.com/35028561/112121256-9f3ebc00-8bf1-11eb-8bd1-09acb2795112.png)
+![5](https://user-images.githubusercontent.com/35028561/112121264-a239ac80-8bf1-11eb-8ee2-99b03fa367ee.png)
+![6](https://user-images.githubusercontent.com/35028561/112121278-a796f700-8bf1-11eb-9088-c13486b12cfb.png)
+![7](https://user-images.githubusercontent.com/35028561/112121308-b2518c00-8bf1-11eb-9979-93cc4338f6c2.png)
+![8](https://user-images.githubusercontent.com/35028561/112121318-b4b3e600-8bf1-11eb-84fe-62a69543680c.png)
